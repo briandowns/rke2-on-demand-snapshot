@@ -1,0 +1,1 @@
+{"instructions":[{"name":"on-demand-snapshot","image":"docker.io/briandowns/rke2-etcd-snapshot:latest","command":"sh", "args":["-c","rke2-on-demand-snapshot.sh"]}]}
